@@ -1,0 +1,5 @@
+langchain
+langchain-groq
+google-search-results
+langchain-community
+bs4
